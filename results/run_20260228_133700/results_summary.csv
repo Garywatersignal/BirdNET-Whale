@@ -1,0 +1,6 @@
+,,,macro_ap,macro_ap,macro_auc,macro_auc,accuracy,accuracy
+,,,mean,std,mean,std,mean,std
+k,train_condition,test_snr,,,,,,
+2,C,-5,0.5406,0.0026,0.8422,0.0044,0.4216,0.0528
+2,M,-5,0.541,0.0495,0.815,0.0306,0.5112,0.0106
+2,S,-5,0.5613,0.0437,0.82,0.0231,0.4757,0.029
