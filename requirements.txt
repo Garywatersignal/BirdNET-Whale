@@ -1,0 +1,10 @@
+tensorflow>=2.10
+numpy>=1.21
+librosa>=0.10
+soundfile>=0.12
+scaper>=1.6
+pandas>=1.5
+scikit-learn>=1.1
+matplotlib>=3.7
+seaborn>=0.12
+optuna>=3.0
